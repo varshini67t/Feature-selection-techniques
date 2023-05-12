@@ -187,6 +187,19 @@ imp_coef.plot(kind = "barh")
 plt.title("Feature importance using Lasso Model")
 plt.show()
 # OUTPUT
+![image](https://github.com/varshini67t/Feature-selection-techniques/assets/107982953/67eee14b-9d3e-4a40-ae0b-b0c7112e4573)
+![image](https://github.com/varshini67t/Feature-selection-techniques/assets/107982953/b3003fe3-46cf-47ba-9637-6830dab3c6ed)
+![image](https://github.com/varshini67t/Feature-selection-techniques/assets/107982953/af1344bf-3edd-459c-b1ef-7053ed76bac9)
+![image](https://github.com/varshini67t/Feature-selection-techniques/assets/107982953/0023cba8-3cb4-4bed-a32e-0cc9c587737a)
+![image](https://github.com/varshini67t/Feature-selection-techniques/assets/107982953/7a3e6bc7-747e-4e3d-a15c-e3f046fc8a4d)
+![image](https://github.com/varshini67t/Feature-selection-techniques/assets/107982953/3599fcc6-4c07-413a-90ad-896711e8ec0c)
+![image](https://github.com/varshini67t/Feature-selection-techniques/assets/107982953/64a4ee51-8e54-4944-ad25-52c46fcb466a)
+![image](https://github.com/varshini67t/Feature-selection-techniques/assets/107982953/fc9b6d90-acd1-479b-974f-d2d0d04b83ac)
+![image](https://github.com/varshini67t/Feature-selection-techniques/assets/107982953/9483710c-2de3-49df-aee6-83f2969f5979)
+![image](https://github.com/varshini67t/Feature-selection-techniques/assets/107982953/6acf1f23-c82e-415a-a127-acc35bc7078c)
+![image](https://github.com/varshini67t/Feature-selection-techniques/assets/107982953/fd4f75ed-be40-489f-bf0f-b2bceaa049f7)
+![image](https://github.com/varshini67t/Feature-selection-techniques/assets/107982953/ed03ea87-0e6a-4eef-bb1c-1f79f8ec9580)
+
   
 # RESULT
 Thus,we have executed various feature selection techniques.
